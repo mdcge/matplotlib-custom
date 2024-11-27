@@ -1,0 +1,5 @@
+axes.titlesize : 16
+axes.labelsize : 10
+lines.linewidth : 1.5
+lines.markersize : 5
+font.family : Arial
