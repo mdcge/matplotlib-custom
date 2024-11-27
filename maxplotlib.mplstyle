@@ -1,5 +1,13 @@
+# Font
+font.family : Arial
+
+# Axis writing
 axes.titlesize : 16
 axes.labelsize : 10
+
+# In-graph element properties (lines, markers, ...)
 lines.linewidth : 1.5
 lines.markersize : 5
-font.family : Arial
+
+# Colours
+axes.prop_cycle : cycler(color=["xkcd:sea blue", "xkcd:brick red", "xkcd:grass green", "xkcd:goldenrod"])
